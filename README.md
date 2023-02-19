@@ -13,7 +13,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Overview
 
-![](./design/desktop-preview.jpg)
+![](./desktop-preview.jpg)
 
 ### The challenge
 
@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-master-PPdzlDogaG)
+- Live Site URL: [Netlify](https://mellow-sprinkles-d171fd.netlify.app/)
 
 ### Built with
 

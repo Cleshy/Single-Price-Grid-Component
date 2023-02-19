@@ -113,6 +113,7 @@ body {
   border-top-right-radius: 5px;
   color: var(--clr-neutral-100);
   max-width: 63.5rem;
+  box-shadow: 0px 15px 30px rgba(0, 81, 171, 0.148847);
 }
 
 .card__top {
@@ -224,6 +225,7 @@ body {
 
   .card__top-money {
     font-size: var(--fs-600);
+    margin-bottom: 1.1rem;
   }
 
   .card__top-desc {
@@ -233,6 +235,10 @@ body {
   .card__bottom {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .card__price {
+    margin-bottom: 0.4rem;
   }
 
   .card__price-left {
